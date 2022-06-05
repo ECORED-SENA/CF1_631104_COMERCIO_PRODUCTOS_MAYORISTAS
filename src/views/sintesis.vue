@@ -3,13 +3,12 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p.mb-5 El contar con personal capacitado en ventas, permite la optimización de recursos, contar y valorar su inventario, la importancia radica en el seguimiento, el análisis y la gestión  del mismo. Los conocimientos obtenidos de las evaluaciones de inventario son necesarios para el éxito, ya que ayudan a las empresas a tomar decisiones empresariales más inteligentes y rentables, garantizando así la eficacia en los procesos, fomentando la responsabilidad social en actividades de  adquisición y entrega de productos al mercado con  calidad y sostenibilidad.
 
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/sintesis.svg", alt="alt")
       .col-auto
         a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
           .anexo__icono
