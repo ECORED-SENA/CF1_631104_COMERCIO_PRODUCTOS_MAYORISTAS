@@ -8,10 +8,10 @@
       h1 Maestro de productos
     
     .row.mb-5.justify-center
-      .col-12.col-md-4.col-lg-4
+      .col-12.col-md-4.col-lg-4(data-aos="fade-right")
         figure.mb-5
           img(src='@/assets/curso/tema2/t2-1.png', alt='Texto que describa la imagen')
-      .col-12.col-md-6.col-lg-6.align-items-center.bg_grad-02
+      .col-12.col-md-6.col-lg-6.align-items-center.bg_grad-02(data-aos="fade-left")
         div
           p El  maestro de productos es una solución de gestión de datos de los inventarios que recopila, valida, enriquece y agrupa todos los datos relacionados con los productos de la organización en una copia completa, precisa y fácil de reportar. 
           p.text-bold Los datos de los productos varían de acuerdo con:
@@ -57,7 +57,7 @@
     p.mb-5 Cualidades de un buen maestro de productos:
 
     .row.mb-5.justify-center
-      .col-12.col-md-6.align-items-center.mb-3.mb-md-0
+      .col-12.col-md-6.align-items-center.mb-3.mb-md-0(data-aos="fade-right")
         div
           p.text-bold Un buen maestro de productos establecerá:
           ul.lista-ul--color
@@ -70,7 +70,7 @@
             li.mb-4
               i.fas.fa-paper-plane.colr_2
               | Identifica los procesos mediante los cuales se ingieren y gobiernan los datos de los productos, independientemente de cómo estén definidos dentro de la organización. 
-      .col-12.col-md-4
+      .col-12.col-md-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema2/t2-7.png', alt='Texto que describa la imagen')
 
