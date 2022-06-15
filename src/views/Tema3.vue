@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-botones
       .titulo-principal__numero.colr_1
         span 3
-      h1 Titulo de primer nivel
+      h1 Categorización de inventarios 
 
     .bg_grad-06
       .row.mb-5.justify-center

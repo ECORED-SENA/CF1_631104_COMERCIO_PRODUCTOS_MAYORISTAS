@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-botones
       .titulo-principal__numero.colr_1
         span 1
-      h1 Titulo de primer nivel
+      h1  Características del producto
 
     .bg_grad-01
       .row.mb-5.justify-center

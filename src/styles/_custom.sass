@@ -223,6 +223,78 @@
       height: 68%
       left: -13px
       top: -16px
+.bg_grad-07
+  position: relative
+  p
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0
+    top: 66px
+    left: -13px
+    width: 33%
+    height: 29%
+    background-color: #FFF9D9
+    background-repeat: no-repeat
+    background-size: contain
+    @media screen and ( max-width: 992px )
+      width: 215px
+      height: 39%
+      left: -24px
+      top: 0px
+    @media screen and ( max-width: 420px )
+      width: 215px;
+      height: 63%;
+      left: -5px;
+      top: -25px;
+.bg_grad-08
+  position: relative
+  p
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0
+    top: 0
+    left: -13px
+    width: 33%
+    height: 29%
+    background-color: #E8F7FD
+    background-repeat: no-repeat
+    background-size: contain
+    @media screen and ( max-width: 992px )
+      width: 215px
+      height: 26%
+      left: -24px
+      top: 0px
+    @media screen and ( max-width: 420px )
+      width: 215px;
+      height: 22%;
+      left: -5px;
+      top: -1px;
+.bg_grad-09
+  position: relative
+  .row
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0
+    top: -27px
+    left: 19%
+    width: 66%
+    height: 359px
+    background: linear-gradient(270deg, rgba(239,239,239,1) 0%, rgba(255,255,255,1) 100%)
+    background-repeat: no-repeat
+    background-size: contain
+    @media screen and ( max-width: 420px )
+      background: linear-gradient(0deg, rgba(239,239,239,1) 0%, rgba(255,255,255,1) 100%);
+      width: 385px
+      height: 643px
+      left: -13px
+      top: 36px
+
 .bgr
   position: relative
   .row
@@ -364,6 +436,20 @@
       position: absolute
       top: 0
       left: 0
+  &_26
+    background-color: #F8BCAB
+    &:hover
+      background-color: #F27B58
+  &_27
+    background-color: #E8E8E8
+  &_28
+    background-color: #C5EAFB
+    &:hover
+      background-color: #F27B58
+      p
+        color: white
+
+      
 
 //POSICION EN PANTALLA//
 .pst
@@ -380,6 +466,17 @@
     margin-top: 120px
     @media screen and (max-width: 420px)
       margin-top: 50px
+  &_3
+    position: absolute
+    top: -13px
+    right: -65px
+    width: 87px
+    @media screen and (max-width: 992px)
+      right: -73px
+      top: -2px
+    @media screen and (max-width: 420px)
+      right: -60px
+      top: -2px
 
 //CLASES SOBREESCRITAS//
 .modif  
@@ -556,14 +653,56 @@
         width: 47%
       @media screen and (max-width: 420px)
         width: 73%
-        
-    
-
+  &_20
+    .slyder-a__btn--atrs
+      background-color: #00E7BF
+      background-image: url("../assets/componentes/arrow1.svg")
+      transform: rotate(0deg)  
+    .slyder-a__btn--sigt
+      background-color: #00E7BF
+      background-image: url("../assets/componentes/arrow2.svg")
+      transform: rotate(0deg)
+    .slyder-a__bullets__item--active
+      background-color: #4A2EFC !important
+      border-color: #4A2EFC 
+    .slyder-a__bullets__item
+      background-color: #AFAEFD
+  &_21
+    .horizontal-scroll
+      align-items: stretch !important
+    .slyder-a__tipo-b
+      margin-top: 1rem !important
+      width: 100%
+      left: 0
+      @media screen and (max-width: 992px)
+        margin-top: 1rem !important
+        width: 100%
+        left: 0
+      @media screen and (max-width: 420px)
+        margin-top: 1rem !important
+        width: 100%
+        left: 0
+    .slyder-a__tipo-b .slyder-a__bullets
+      width: 19%
+      @media screen and (max-width: 992px)
+        width: 27%
+      @media screen and (max-width: 420px)
+        width: 44%
+  &_22
+    .tabs-a__tab
+      background-color: #F6F6F6
+    .tabs-a__tab__selected
+      color: white !important
+  &_23
+    background-color: #FFFBEF
+    color: #12263F;
+    border: solid 4px #FFF4CC
 
 //CLASES REEMPLAZADAS//
 .horizontal-scroll
   align-items: stretch !important
-
+.tarjeta.color-primario *
+  color: #12263F
   
 
 
