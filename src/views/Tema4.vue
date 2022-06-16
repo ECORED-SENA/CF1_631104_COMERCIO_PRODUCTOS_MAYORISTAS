@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-botones
+    .titulo-principal.color-acento-contenido
       .titulo-principal__numero.colr_1
         span 4
       h1 Administración y control de inventarios
@@ -248,7 +248,7 @@
     
     p.mb-5 El desarrollo de las inspecciones debe realizarse por fases, teniendo en cuenta sus características propias; así:
 
-    TabsA.color-acento-contenido.modif_22.mb-5(data-aos="zoom-in-down")
+    TabsA.color-acento-botones.modif_22.mb-5(data-aos="zoom-in-down")
       .tarjeta.modif_23.p-4(titulo="Fase 1")
         .row.p-4  
           .col-12.col-lg-8
@@ -296,7 +296,7 @@
             p.mb-0 ●	Volumen
             p.mb-0 ●	Gramaje
     
-    .row.mb-5.justify-center
+    .row.mb-5.justify-center.align-items-center
       .col-12.col-md-4
         p.text-bold La identificación única por artículo o producto facilita:
         ul.lista-ul--color
@@ -334,7 +334,8 @@
               p.mb-0.text-bold Sistema Internacional GS1.
               p.mb-0 Codificación de unidades envasadas
               p.mb-0 Representación de caracteres numericos o alfabeticos en forma de código.
-            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/tema4/t4-25.png')})`}")
+            .tarjeta-slide__img.d-none.d-md-flex(:style="{'background-image': `url(${require('@/assets/curso/tema4/t4-25.png')})`}")
+            .tarjeta-slide__img.d-flex.d-md-none(:style="{'background-image': `url(${require('@/assets/curso/tema4/t4-25-1.png')})`}")
       .col-12.col-md-3.col-sm-6.col-xl-3.mb-4.mb-xl-0
         .tarjeta.tarjeta-slide.arriba.color-primario(@mouseover="indicadorTarjetaSlide = false")
           .indicador--hover(v-if="indicadorTarjetaSlide")
@@ -342,8 +343,8 @@
             .tarjeta-slide__contenido.p-5.p-xl-5.my-5
               p.mb-5.text-bold Código Datamatrix
               p.mb-0 <b>Código de barras bidimensionales</b> o código de respuesta rápida. Permiten almacenar información en una matriz de puntos. Reduce los errores en la lectura
-
-            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/tema4/t4-26.png')})`}")
+            .tarjeta-slide__img.d-none.d-md-flex(:style="{'background-image': `url(${require('@/assets/curso/tema4/t4-26.png')})`}")
+            .tarjeta-slide__img.d-flex.d-md-none(:style="{'background-image': `url(${require('@/assets/curso/tema4/t4-26-1.png')})`}")
       .col-12.col-md-3.col-sm-6.col-xl-3.mb-4.mb-xl-0
         .tarjeta.tarjeta-slide.arriba.color-primario(@mouseover="indicadorTarjetaSlide = false")
           .indicador--hover(v-if="indicadorTarjetaSlide")
@@ -351,8 +352,8 @@
             .tarjeta-slide__contenido.p-5.p-xl-5.my-5
               p.mb-5.text-bold Etiquetas electrónicas
               p.mb-0 <b>Etiqueta RFID</b>, permite identificación automática usando ondas radiofrecuencias.  Recurso más sofisticado, basado en circuitos y micropocesadores
-
-            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/tema4/t4-27.png')})`}")
+            .tarjeta-slide__img.d-none.d-md-flex(:style="{'background-image': `url(${require('@/assets/curso/tema4/t4-27.png')})`}")
+            .tarjeta-slide__img.d-flex.d-md-none(:style="{'background-image': `url(${require('@/assets/curso/tema4/t4-27-1.png')})`}")
     
     .row.mb-5.justify-center
       .col-12.col-lg-8.bgr_27

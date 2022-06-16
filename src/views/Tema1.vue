@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-botones
+    .titulo-principal.color-acento-contenido
       .titulo-principal__numero.colr_1
         span 1
       h1  Características del producto
@@ -26,7 +26,7 @@
     .bgr
       .row.mb-5.justify-center
         .col-12.col-md-8.col-lg-8(data-aos="fade-right").align-items-center
-          p.p-4 Los centros de despacho deben asegurar una correcta manipulación y ubicación de la mercancía, para lo cual se requiere conocer características como: dimensiones, forma, volumen, peso, ubicación, fragilidad, propiedades, estado físico y nivel de rotación. Estas características permiten clasificarlas e identificar los equipos necesarios para las actividades de recepción, manipulación, ubicación y almacenamiento, las cuales se describen a continuación:
+          p.p-4 Los centros de despacho deben asegurar una correcta manipulación y ubicación de la mercancía, para lo cual se requiere conocer características como: <b>dimensiones, forma, volumen, peso, ubicación, fragilidad, propiedades, estado físico y nivel de rotación.</b> Estas características permiten clasificarlas e identificar los equipos necesarios para las actividades de recepción, manipulación, ubicación y almacenamiento, las cuales se describen a continuación:
         .col-12.col-md-4.col-lg-4(data-aos="fade-left") 
           figure.mb-5x
             img(src='@/assets/curso/tema1/t1-2.png', alt='Texto que describa la imagen')
@@ -116,7 +116,7 @@
     
     p.mb-5 Las mercancías peligrosas están catalogadas por tipos de la siguiente manera:  
 
-    .row.mb-5(data-aos="zoom-in-up")
+    .row.mb-2(data-aos="zoom-in-up")
       .col-12.col-lg-6
         .row.justify-center
           hr.pst_1
@@ -137,7 +137,7 @@
             div
               p.text-bold Clase 2. Gases: 
               | Se transportan bajo presión y esta misma supone un peligro si se libera el gas repentinamente.
-    .row.mb-5(data-aos="zoom-in-up")
+    .row.mb-3(data-aos="zoom-in-up")
       .col-12.col-lg-6    
         .row.justify-center
           hr.pst_1
@@ -158,7 +158,7 @@
             div
               p.text-bold Clase 4. Sólidos inflamables: 
               | Son los materiales que pueden sufrir inflamaciones espontáneas, generan gran cantidad de calor como por ejemplo trinitrotolueno.  
-    .row.mb-5(data-aos="zoom-in-up")
+    .row.mb-3(data-aos="zoom-in-up")
       .col-12.col-lg-6 
         .row.justify-center
           hr.pst_1
@@ -179,7 +179,7 @@
             div
               p.text-bold Clase 6. Sustancias Tóxicas e infecciosas:  
               | Se denominan así los venenos o químicos que pueden afectar al ser humano, en parte o en su totalidad, se debe evitar el contacto con dichos elementos, tragarlos o inhalarlos.  
-    .row.mb-5(data-aos="zoom-in-up")
+    .row.mb-3(data-aos="zoom-in-up")
       .col-12.col-lg-6
         .row.justify-center
           hr.pst_1
@@ -200,7 +200,7 @@
             div
               p.text-bold Clase 8. Corrosivos:  
               | Son mercancías que destruyen tejidos, pueden ser ácidos o mercancías alcalinas.
-    .row.mb-5(data-aos="zoom-in-up")
+    .row.mb-3(data-aos="fade-right") 
       .col-12.col-lg-6
         .row.justify-center
           hr.pst_1

@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-botones
+    .titulo-principal.color-acento-contenido
       .titulo-principal__numero.colr_1
         span 2
       h1 Maestro de productos
@@ -86,26 +86,26 @@
           .col-12.col-md-4.mb-3.mb-md-0
             p.text-bold Primer grupo
             ul.lista-ul--color
-              li.mb-4
-                i.fas.fa-paper-plane
+              li.mb-2
+                i.fas.fa-paper-plane.colr_4
                 | Productos nuevos.
-              li.mb-4
-                i.fas.fa-paper-plane
+              li.mb-2
+                i.fas.fa-paper-plane.colr_4
                 | Complejos.
-              li.mb-4
-                i.fas.fa-paper-plane
+              li.mb-2
+                i.fas.fa-paper-plane.colr_4
                 | Personalizados. 
           .col-12.col-md-4.modif_3.mb-3.mb-md-0
             p.text-bold Segundo grupo
             ul.lista-ul--color
               li.mb-4
-                i.fas.fa-paper-plane
+                i.fas.fa-paper-plane.colr_4
                 | División, sucursal o canal de ventas (es decir, de distribución)
           .col-12.col-md-4.modif_3
             p.text-bold Tercer grupo
             ul.lista-ul--color
               li.mb-4
-                i.fas.fa-paper-plane
+                i.fas.fa-paper-plane.colr_4
                 | Matices, diferencia de color 
 
     separador
@@ -131,16 +131,16 @@
       .col-12.col-md-4.mb-3.mb-md-0
         figure
           img(src='@/assets/curso/tema2/t2-10.png', alt='Texto que describa la imagen')
-      .col-12.col-md-3(data-aos="zoom-in-down").mb-5.mb-md-0
-        div.position-relative.mb-5
+      .col-12.col-md-3(data-aos="zoom-in-down").mb-3.mb-md-0
+        div.position-relative.mb-3.mb-md-5
           .modif_4
           p #[strong 1. Identificación.]  
             | El etiquetado confiere a un producto una identidad propia que lo distingue de otros en el mercado.
-        div.position-relative.mb-5
+        div.position-relative.mb-3.mb-md-5
           .modif_5
           p #[strong 2. Casificación.] 
             | El etiquetado clasifica las cosas en distintos grados.
-        div.position-relative.mb-5
+        div.position-relative.mb-3.mb-md-5
           .modif_6
           p #[strong 3. Protección del consumidor.]  
             | Protege a los consumidores del engaño de los fabricantes o de la manipulación de los hechos.
@@ -149,11 +149,11 @@
           p #[strong 4. Cumplimiento de la ley.]  
             | Permite a la empresa cumplir con todas las normas legales poniendo todas las advertencias reglamentarias en los envases de los productos.
       .col-12.col-md-3(data-aos="zoom-in-up")
-        div.position-relative.mb-5
+        div.position-relative.mb-3.mb-md-5
           .modif_8
           p #[strong 5. Promoción.]  
             | El etiquetado es una herramienta importante en la comercialización del producto. Hace que el producto sea más atractivo y atrae la atención de la gente destacando aspectos cruciales.
-        div.position-relative.mb-5
+        div.position-relative.mb-3.mb-md-5
           .modif_9
           p #[strong 6. Códigos de barras.]  
             | Los códigos de barras, los códigos universales de producto y las etiquetas RFID son habituales para permitir la gestión automatizada de la información en la logística y la venta al por menor.
@@ -231,7 +231,7 @@
 
     p.mb-5 La importancia de la codificación de productos, lo detallamos a continuación:
 
-    TabsA.color-acento-contenido.modif_11.mb-5(data-aos="zoom-in-down")
+    TabsA.color-acento-botones.modif_11.mb-5(data-aos="zoom-in-down")
       .tarjeta.modif_12.p-4(titulo="Es de manejo simple")
         .row.p-4  
           .col-12.col-md-6
@@ -373,10 +373,10 @@
     
     p.mb-5 Aquellos equipos que están fijos al piso o techo de la edificación y pueden realizar algún tipo de transporte, como aparece en la siguiente tabla:
 
-    .row.mb-3.justify-center
+    .row.mb-3.justify-center(data-aos="zoom-out-up")
       .col-12.col-md-5
         .titulo-sexto.color-acento-contenido  
-          h5 Table 1.
+          h5 Tabla 1.
           span Clasificación equipos dinámicos (sin traslado)
       .col-12.col-md-11
         .tabla-a.color-acento-contenido.mb-5.modif_17 
@@ -464,10 +464,10 @@
     
     p.mb-5 Aquellos equipos que pueden trasladar mercancías dentro del almacén, a continuación, se describen:
 
-    .row.mb-3.justify-center
+    .row.mb-3.justify-center(data-aos="zoom-out-down")
       .col-12.col-md-5
         .titulo-sexto.color-acento-contenido  
-          h5 Table 2.
+          h5 Tabla 2.
           span Clasificación equipos dinámicos con traslado
       .col-12.col-md-11
         .tabla-a.color-acento-contenido.mb-5.modif_17 
@@ -585,11 +585,11 @@
     .row.justify-center.mb-3
       .col-12.col-md-5
         .titulo-sexto.color-acento-contenido  
-          h5 Table 3.
+          h5 Tabla 3.
           span Número de personas y la extracción del producto(s):
-    .row.mb-3.justify-center
+    .row.mb-3.justify-center(data-aos="zoom-out-up")
       .col-12.col-md-7
-        .tabla-a.color-acento-contenido.mb-5
+        .tabla-a.color-acento-contenido.mb-5.modif_24
           table.bgr_17
             caption.text-center Nota. Relación de factores en la manipulación de productos.  
             thead
@@ -624,11 +624,11 @@
     .row.justify-center.mb-3
       .col-12.col-md-5
         .titulo-sexto.color-acento-contenido  
-          h5 Table 4.
+          h5 Tabla 4.
           span Recorrido y movimiento de las personas:
-    .row.justify-center
+    .row.justify-center(data-aos="zoom-out-down")
       .col-12.col-md-10
-        .tabla-a.color-acento-contenido.mb-5
+        .tabla-a.color-acento-contenido.mb-5.modif_24
           table.bgr_17
             caption.text-center Nota. Relación de factores en la manipulación de mercancías o pedidos.   
             thead
@@ -667,11 +667,11 @@
       .h2 2.4  Aplicaciones, usos y  reportes
     
     .row.mb-5
-      .col-12.col-md-7.p-5.bg_grad-05
+      .col-12.col-md-7.p-5.bg_grad-05(data-aos="fade-right")
         div  
           p La utilización de la tecnología y procesos de información en las empresas facilitan la gestión y control operativo de la mercancía y eficiencia en la prestación del servicio al cliente.
           p.mb-0 Los sistemas de comunicación, programas específicos y elementos o dispositivos necesarios para la comunicación, actualización de la información y registros en las bases de datos, son  elementos necesarios en la preparación de pedidos, varía desde los más básicos como papel y lápiz, hasta más automatizados implementando tecnologías de radiofrecuencia; así mismo la necesidad de recursos humanos podría aumentar o disminuir y los desplazamientos de las mercancías podrían ser horizontal o vertical. 
-      .col-12.col-md-5.align-items-center
+      .col-12.col-md-5.align-items-center(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema2/t2-49.png', alt='Texto que describa la imagen')
 

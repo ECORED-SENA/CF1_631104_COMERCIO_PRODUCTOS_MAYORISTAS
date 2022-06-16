@@ -92,6 +92,8 @@
     color: #F27B58 !important
   &_3
     color: #00E7BF !important
+  &_4
+    color: #4A2EFC !important
 //BACKGROUND COLOR//
 .bg_grad-01
   position: relative
@@ -101,14 +103,16 @@
     content: ''
     position: absolute
     margin: 0
-    top: 0px
+    top: 41px
     left: 3%
-    width: 67%
-    height: 100%
+    width: 72%
+    height: 89%
     background: linear-gradient(90deg, rgba(239,239,239,1) 0%, rgba(255,255,255,1) 100%)
     background-repeat: no-repeat
     background-size: contain
-    @media screen and ( max-width: 420px )
+    @media screen and (max-width: 992px)
+      top: 24px
+    @media screen and (max-width: 420px)
       width: 385px
       height: 68%
       left: -13px
@@ -448,6 +452,8 @@
       background-color: #F27B58
       p
         color: white
+  &_29
+    background-color: #ecfffc
 
       
 
@@ -584,6 +590,8 @@
   &_11
     .tabs-a__tab
       background-color: #F6F6F6
+      &:hover
+        color: white !important
     .tabs-a__tab__selected
       color: white !important
   &_12
@@ -645,14 +653,14 @@
         left: 0
       @media screen and (max-width: 420px)
         margin-top: -1rem !important
-        width: 100%
-        left: 0
+        width: 359px
+        left: -18px
     .slyder-a__tipo-b .slyder-a__bullets
       width: 73%
       @media screen and (max-width: 992px)
         width: 47%
       @media screen and (max-width: 420px)
-        width: 73%
+        width: 75%
   &_20
     .slyder-a__btn--atrs
       background-color: #00E7BF
@@ -691,12 +699,22 @@
   &_22
     .tabs-a__tab
       background-color: #F6F6F6
+      &:hover
+        color: white !important
     .tabs-a__tab__selected
       color: white !important
+   
   &_23
     background-color: #FFFBEF
     color: #12263F;
     border: solid 4px #FFF4CC
+  &_24
+    thead 
+      background-color: #FCF9F4
+  &_25
+    @media screen and (max-width: 420px)
+      .linea-tiempo-e__item
+        padding: 0
 
 //CLASES REEMPLAZADAS//
 .horizontal-scroll

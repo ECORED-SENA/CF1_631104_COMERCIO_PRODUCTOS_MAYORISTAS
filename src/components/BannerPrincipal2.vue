@@ -12,16 +12,16 @@
             p.mb-0(v-html="globalData.descripcionCurso")
         .banner-principal__accion
           router-link.boton(:to="{name: iniciarLnk.nombreRuta }")
-            span.me-1 Iniciar
+            span.me-1 Ver más
             i.fas.fa-angle-right
 
       .col-lg-5.d-none.d-lg-block.px-0.position-relative.img-p
         img(:src="globalData.imagenBannerPrincipal")
-    .imagen_flotante_1: img(src="@/assets/curso/portada/flot1.svg").d-none.d-lg-block
-    .imagen_flotante_2: img(src="@/assets/curso/portada/flot2.svg").d-none.d-lg-block
-    .imagen_flotante_3: img(src="@/assets/curso/portada/flot3.svg").d-none.d-lg-block
-    .imagen_flotante_4: img(src="@/assets/curso/portada/flot4.svg").d-none.d-lg-block
-    .imagen_flotante_5: img(src="@/assets/curso/portada/flot5.svg").d-none.d-lg-block
+    .imagen_flotante_1: img(src="@/assets/curso/portada/flot1.png").d-none.d-lg-block
+    .imagen_flotante_2: img(src="@/assets/curso/portada/flot2.png").d-none.d-lg-block
+    .imagen_flotante_3: img(src="@/assets/curso/portada/flot3.png").d-none.d-lg-block
+    .imagen_flotante_4: img(src="@/assets/curso/portada/flot4.png").d-none.d-lg-block
+    .imagen_flotante_5: img(src="@/assets/curso/portada/flot5.png").d-none.d-lg-block
    
     
   
