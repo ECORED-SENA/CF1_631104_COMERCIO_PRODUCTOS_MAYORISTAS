@@ -640,6 +640,9 @@
       background-color: #4A2EFC !important
     .slyder-a__bullets__item
       background-color: #A6B3FB
+      @media screen and (max-width: $bp-max-sm)
+        margin: 0 6px
+        
   &_19
     .horizontal-scroll
       align-items: stretch !important
@@ -651,6 +654,9 @@
         margin-top: -1rem !important
         width: 100%
         left: 0
+      @media (min-width: $bp-min-lg) and (max-width: $bp-max-xl)
+        left: 420px
+        margin-top: 0rem !important
       @media screen and (max-width: 420px)
         margin-top: -1rem !important
         width: 350px
