@@ -42,50 +42,50 @@
           .col-12
             img(src='@/assets/curso/tema1/t1-5.png' alt='AvatarTop')
         h4 1. Según volumen y dimensiones
-        p.mb-0 Muy voluminosa, Volumen excepcional, Voluminosas, Dimensiones especiales, Pequeñas,Paletizadas
+        p.mb-0 Muy voluminosa, Volumen excepcional, Voluminosas, Dimensiones especiales, Pequeñas,Paletizadas.
       .tarjeta.p-4
         .row.justify-content-center.mb-3
           .col-12
             img(src='@/assets/curso/tema1/t1-6.png' alt='AvatarTop')
         h4 2. Según el peso
-        p.mb-0 Ligera, Media, Pesada, Muy pesada
+        p.mb-0 Ligera, Media, Pesada, Muy pesada.
       .tarjeta.p-4
         .row.justify-content-center.mb-3
           .col-12
             img(src='@/assets/curso/tema1/t1-7.png' alt='AvatarTop')
         h4 3. Según su ubicación
-        p.mb-0 Sencillas, Apilables
+        p.mb-0 Sencillas, Apilables.
       .tarjeta.p-4
         .row.justify-content-center.mb-3
           .col-12
             img(src='@/assets/curso/tema1/t1-8.png' alt='AvatarTop')
         h4 4. Según su fragilidad
-        p.mb-0 Ligeras, Resistentes, Frágiles
+        p.mb-0 Ligeras, Resistentes, Frágiles.
       .tarjeta.p-4
         .row.justify-content-center.mb-3
           .col-12
             img(src='@/assets/curso/tema1/t1-9.png' alt='AvatarTop')
         h4 5. Según sus propiedades
-        p.mb-0 Duradero, Perecedero
+        p.mb-0 Duradero, Perecedero.
       .tarjeta.p-4
         .row.justify-content-center.mb-3
           .col-12
             img(src='@/assets/curso/tema1/t1-10.png' alt='AvatarTop')
         h4 6. Según su estado fisico
-        p.mb-0 Líquido, Sólido, Gaseoso
+        p.mb-0 Líquido, Sólido, Gaseoso.
       .tarjeta.p-4
         .row.justify-content-center.mb-3
           .col-12
             img(src='@/assets/curso/tema1/t1-11.png' alt='AvatarTop')
         h4 7. Según su rotación
-        p.mb-0 Baja, Media, Alta
+        p.mb-0 Baja, Media, Alta.
 
     .row.mb-3(data-aos="fade-right")
       .col-10.col-lg-4.position-relative
         h3.p-3.bgr_2.text-center Según su naturaleza
         img.pst(src='@/assets/curso/tema1/t1-4.svg' alt='AvatarTop')
     
-    p.mb-5 Clasificación de las mercancías según su naturaleza
+    p.mb-5 Clasificación de las mercancías según su naturaleza.
 
     .row.mb-5
       .col-12.col-md-3.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-up")
@@ -188,7 +188,7 @@
               img.img90(src='@/assets/curso/tema1/t1-21.svg' alt='AvatarTop')
           .col-12.col-lg-10.align-items-center
             div
-              p.text-bold Clase 7. Material Radioactivo 
+              p.text-bold Clase 7. Material Radioactivo: 
               | Son mercancías que emiten radiación invisible y puede dañar el cuerpo y los sentidos según el tipo de radiación.
       .col-12.col-lg-6
         .row.justify-center

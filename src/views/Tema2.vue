@@ -63,7 +63,7 @@
           ul.lista-ul--color
             li.mb-4
               i.fas.fa-paper-plane.colr_2
-              | Flujos de trabajo adecuado
+              | Flujos de trabajo adecuado.
             li.mb-4
               i.fas.fa-paper-plane.colr_2
               | Elementos de datos críticos, dentro de los atributos de los productos.
@@ -100,13 +100,13 @@
             ul.lista-ul--color
               li.mb-4
                 i.fas.fa-paper-plane.colr_4
-                | División, sucursal o canal de ventas (es decir, de distribución)
+                | División, sucursal o canal de ventas (es decir, de distribución).
           .col-12.col-md-4.modif_3
             p.text-bold Tercer grupo
             ul.lista-ul--color
               li.mb-4
                 i.fas.fa-paper-plane.colr_4
-                | Matices, diferencia de color 
+                | Matices, diferencia de color. 
 
     separador
 
@@ -191,7 +191,7 @@
               | Fecha de llegada al depósito.
             li
               i.fas.fa-paper-plane.colr_2
-              | Envasado
+              | Envasado.
             li
               i.fas.fa-paper-plane.colr_2
               | Caducidad.
@@ -236,7 +236,7 @@
         .row.p-4  
           .col-12.col-md-6
             h4 Es de manejo simple 
-            p es un sistema estándar de codificación de bienes y servicios, elaborado para objetivos comerciales de compras y adquisiciones. Es flexible, versátil, de forma fácil adaptable a las necesidades locales y usado en catálogos electrónicos, motores de consulta en internet y sistemas de aplicación de adquisiciones. 
+            p Es un sistema estándar de codificación de bienes y servicios, elaborado para objetivos comerciales de compras y adquisiciones. Es flexible, versátil, de forma fácil adaptable a las necesidades locales y usado en catálogos electrónicos, motores de consulta en internet y sistemas de aplicación de adquisiciones. 
           .col-12.col-md-6
             figure
               img(src='@/assets/curso/tema2/t2-14.png', alt='Texto que describa la imagen')
@@ -316,7 +316,7 @@
               img(src='@/assets/curso/tema2/t2-23.png', alt='Texto que describa la imagen')
           div
             span.bgr_10.text-bold 3. 
-            | <b>Control del stock en tiempo real</b>
+            | <b>Control del <em>stock</em> en tiempo real</b>
             p.my-5 Se puede conocer en todo instante el número preciso de existencias en el depósito.   
             figure
               img(src='@/assets/curso/tema2/t2-24.png', alt='Texto que describa la imagen')
@@ -329,7 +329,7 @@
           div
             span.bgr_12.text-bold 5. 
             | <b>Alistamiento de pedidos de manera eficiente</b>
-            p.my-5 El picking es una de las operaciones que necesita más tiempo y recursos. Contar con todos los artículos controlados e ubicados aporta velocidad, puesto que el WMS sabe la localización precisa de cada SKU y da las directivas exactas a los operarios referente a cómo localizarlas.    
+            p.my-5 El <em>picking</em> es una de las operaciones que necesita más tiempo y recursos. Contar con todos los artículos controlados e ubicados aporta velocidad, puesto que el WMS sabe la localización precisa de cada SKU y da las directivas exactas a los operarios referente a cómo localizarlas.    
             figure
               img(src='@/assets/curso/tema2/t2-26.png', alt='Texto que describa la imagen')
           div
@@ -538,12 +538,12 @@
         h3.p-3.bgr_2.text-center Estáticos
         img.pst(src='@/assets/curso/tema2/t2-41.svg' alt='AvatarTop')
     
-    p.mb-5 Se utilizan para almacenar mercancía a granel, tienen un orificio de entrada y uno de salida.  Son muy utilizados para manejar semillas y minerales, pueden ser cilíndricos o poligonales. Los más comunes son los silos de almacenamiento
+    p.mb-5 Se utilizan para almacenar mercancía a granel, tienen un orificio de entrada y uno de salida.  Son muy utilizados para manejar semillas y minerales, pueden ser cilíndricos o poligonales. Los más comunes son los silos de almacenamiento.
 
     .bg_grad-04
       .row.mb-5.justify-center
         .col-12.col-md-5.p-3.p-md-5
-          p.mb-0 Ahora bien, ya conociendo los diferentes equipos para la manipulación de las mercancías se puede iniciar la manipulación de  los productos o pedidos; con el objetivo de reducir recorridos, disminuir tiempos, operaciones, y mantener una rotación de stock precisa; para lograr eficiencia en este proceso es importante el desarrollo de las siguientes tareas:
+          p.mb-0 Ahora bien, ya conociendo los diferentes equipos para la manipulación de las mercancías se puede iniciar la manipulación de  los productos o pedidos; con el objetivo de reducir recorridos, disminuir tiempos, operaciones, y mantener una rotación de <em>stock</em> precisa; para lograr eficiencia en este proceso es importante el desarrollo de las siguientes tareas:
         .col-12.col-md-3
           figure
             img(src='@/assets/curso/tema2/t2-42.svg', alt='Texto que describa la imagen')
@@ -578,7 +578,7 @@
         .tarjeta.bgr_18
           .p-4
             h2.text-center Preparación
-            p.mb-0.text-center La mercancía continúa hacia la actividad de embalaje o packaging, precintado, pesaje y etiquetado del paquete, para su posterior traslado al lugar de despacho en donde se precisará su ruta de destino y servicio de entrega.
+            p.mb-0.text-center La mercancía continúa hacia la actividad de embalaje o <em>packaging</em>, precintado, pesaje y etiquetado del paquete, para su posterior traslado al lugar de despacho en donde se precisará su ruta de destino y servicio de entrega.
 
     p.mb-5 Existen <b>tres factores importantes</b> al momento de manipular un producto, como son: número de personas disponibles o sistema de extracción del producto; recorrido o movimiento de las personas, como se describen a continuación: 
 
@@ -647,7 +647,7 @@
                   p.mb-0.text-bold Producto a la Persona
                 td.ps-3.ps-md-4.bgr_16.text-small Desplazamiento de los pedidos hasta las personas en forma manual o automática.
                   br
-                  | <b>Requisito</b>: Cantidad de pedidos medio-alto, salida del producto en unidades o cajas, distancias medio-largas, abastecimiento con palé, utilización de sistemas de gestión informáticos (SGA) en la preparación de pedidos 
+                  | <b>Requisito</b>: Cantidad de pedidos medio-alto, salida del producto en unidades o cajas, distancias medio-largas, abastecimiento con palé, utilización de sistemas de gestión informáticos (SGA) en la preparación de pedidos. 
               tr
                 td.bgr_15.text-bold.text-center 
                   p.mb-0.text-bold Una persona – varios pedidos
@@ -684,39 +684,39 @@
         .col-md-6
           figure
             img(src='@/assets/curso/tema2/t2-50.png', alt='Texto que describa la imagen')
-      .row(titulo="Smartphone").p-4
+      .row(titulo="<em>Smartphone</em>").p-4
         .col-md-6.mb-4.mb-md-0.align-items-center
-          p.mb-0 Dispositivo móvil empresarial: diseñado para servicio, ventas en campo, comercialización, logística y aplicaciones postales. Básicamente, es una minicomputadora o Smartphone pequeño. Actualmente viene integrado con plataformas de radiofrecuencia, el cual brinda cobertura global para satisfacer las necesidades de comunicación 4G de las empresas.
+          p.mb-0 Dispositivo móvil empresarial: diseñado para servicio, ventas en campo, comercialización, logística y aplicaciones postales. Básicamente, es una minicomputadora o <em>Smartphone</em> pequeño. Actualmente viene integrado con plataformas de radiofrecuencia, el cual brinda cobertura global para satisfacer las necesidades de comunicación 4G de las empresas.
         .col-md-6
           figure
             img(src='@/assets/curso/tema2/t2-51.png', alt='Texto que describa la imagen')
       .row(titulo="Pistolas lectoras").p-4
         .col-md-6.mb-4.mb-md-0.align-items-center
-          p.mb-0 Las pistolas de radiofrecuencia son terminales, generalmente inalámbricos, dedicados a la lectura de códigos de barras (u otros tipos de etiquetas, como las QR o las RFID), que se emplean dentro de los almacenes con el fin de conectar las tareas del operario con el software de gestión de almacén.
+          p.mb-0 Las pistolas de radiofrecuencia son terminales, generalmente inalámbricos, dedicados a la lectura de códigos de barras (u otros tipos de etiquetas, como las QR o las RFID), que se emplean dentro de los almacenes con el fin de conectar las tareas del operario con el <em>software</em> de gestión de almacén.
         .col-md-6
           figure
             img(src='@/assets/curso/tema2/t2-52.png', alt='Texto que describa la imagen')
-      .row(titulo="Picking automático").p-4
+      .row(titulo="<em>Picking</em> automático").p-4
         .col-md-6.mb-4.mb-md-0.align-items-center
-          p.mb-0 Picking automático es la aplicación de sistemas automatizados que cubren por completo las tareas de preparación de pedidos (recogida o extracción de mercancía,  transporte en el almacén y acondicionamiento y expedición de etiquetas).
+          p.mb-0 <em>Picking</em> automático es la aplicación de sistemas automatizados que cubren por completo las tareas de preparación de pedidos (recogida o extracción de mercancía,  transporte en el almacén y acondicionamiento y expedición de etiquetas).
         .col-md-6
           figure
             img(src='@/assets/curso/tema2/t2-53.png', alt='Texto que describa la imagen')
-      .row(titulo="Pick to voice").p-4
+      .row(titulo="<em>Pick to voice</em>").p-4
         .col-md-6.mb-4.mb-md-0.align-items-center
-          p.mb-0 Los sistemas de picking por voz asisten a los trabajadores del almacén a través de instrucciones verbales. Estos dispositivos de voice picking están conectados al sistema de gestión de almacenes y convierten sus órdenes en comandos de voz que el operario escucha en sus auriculares. Una vez ejecutadas, es el operario quien, mediante la voz, confirma sus movimientos y la información queda registrada en el sistema de forma automática.
+          p.mb-0 Los sistemas de <em>picking</em> por voz asisten a los trabajadores del almacén a través de instrucciones verbales. Estos dispositivos de <em>voice picking</em> están conectados al sistema de gestión de almacenes y convierten sus órdenes en comandos de voz que el operario escucha en sus auriculares. Una vez ejecutadas, es el operario quien, mediante la voz, confirma sus movimientos y la información queda registrada en el sistema de forma automática.
         .col-md-6
           figure
             img(src='@/assets/curso/tema2/t2-54.png', alt='Texto que describa la imagen')
-      .row(titulo="Pick to ligth").p-4
+      .row(titulo="<em>Pick to ligth</em>").p-4
         .col-md-6.mb-4.mb-md-0.align-items-center
-          p.mb-0 Dispositivo que funciona a través de un display luminoso y escáner guía. Son sistemas cómodos e intuitivos, los cuales facilitan una preparación de pedidos sin necesidad de papeles, conservando las manos libres, consiste en dar instrucciones directamente en el almacén, in-situ.
+          p.mb-0 Dispositivo que funciona a través de un <em>display</em> luminoso y escáner guía. Son sistemas cómodos e intuitivos, los cuales facilitan una preparación de pedidos sin necesidad de papeles, conservando las manos libres, consiste en dar instrucciones directamente en el almacén, <em>in-situ.</em>
         .col-md-6
           figure
             img(src='@/assets/curso/tema2/t2-55.png', alt='Texto que describa la imagen')
-      .row(titulo="Pick to visual").p-4
+      .row(titulo="<em>Pick to visual</em>").p-4
         .col-md-6.mb-4.mb-md-0.align-items-center
-          p.mb-0 Dispositivo con gafas de datos que está diseñado para ayudar al recolector a encontrar rápidamente su ubicación en el almacén (ubicación de la ubicación) y guiarlo a través del proceso de picking sin errores.
+          p.mb-0 Dispositivo con gafas de datos que está diseñado para ayudar al recolector a encontrar rápidamente su ubicación en el almacén (ubicación de la ubicación) y guiarlo a través del proceso de <em>picking</em> sin errores.
         .col-md-6
           figure
             img(src='@/assets/curso/tema2/t2-56.png', alt='Texto que describa la imagen')
@@ -767,7 +767,7 @@
               figure
                 img(src='@/assets/curso/tema2/t2-62.png', alt='Texto que describa la imagen')
             .col-12.col-md-6.col-lg-6
-              h4.mb-lg-4 Novedad respecto al Riesgo en seguridad de la mercancía
+              h4.mb-lg-4 Novedad respecto al riesgo en seguridad de la mercancía
               p Metales preciosos y otros objetos de valor.  Dinero en efectivo, joyas o piedras finas.  Bonos o tickets pagaderos al portador.  Antigüedades y obras de arte.
           .row
             .col-12.col-md-6.col-lg-6.mb-3.mb-md-0

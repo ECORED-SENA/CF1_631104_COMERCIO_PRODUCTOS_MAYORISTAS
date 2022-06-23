@@ -43,7 +43,7 @@
               p.mb-0 Cuando se practica la gestión de inventario en consignación, su empresa no pagará a su proveedor hasta que se venda un determinado producto. Ese proveedor también conserva la propiedad del inventario hasta que su empresa lo venda.
           .row.p-3.p-md-5.p-lg-5
             .col-12
-              h4 Cross-Docking:
+              h4 <em>Cross-Docking:</em>
               p.mb-5 Con este método, usted descargará los artículos directamente del camión de un proveedor al camión de entrega. Se elimina esencialmente el almacenamiento.
               h4 Previsión de la demanda:
               p.mb-5 Esta forma de análisis predictivo ayuda a predecir la demanda de los clientes.
@@ -56,7 +56,7 @@
           .row.p-3.p-md-5.p-lg-5
             .col-12
               h4 Inventario justo a tiempo (JIT):
-              p.mb-5 Las empresas utilizan este método en un esfuerzo por mantener los niveles de stock más bajos posibles antes de una reposición.
+              p.mb-5 Las empresas utilizan este método en un esfuerzo por mantener los niveles de <em>stock</em> más bajos posibles antes de una reposición.
               h4 Fabricación ajustada:
               p.mb-5 Esta metodología se centra en eliminar del sistema de fabricación los residuos o cualquier elemento que no aporte valor al cliente.
               h4 Planificación de necesidades de materiales (MRP):
@@ -67,12 +67,12 @@
             .col-12
               h4 Fórmula de punto de pedido:
               p.mb-5 Las empresas utilizan esta fórmula para encontrar la cantidad mínima de existencias que deben tener antes de reordenar, y luego gestionar su inventario en consecuencia.
-              h4 Stock de seguridad:
+              h4 <em>Stock</em> de seguridad:
               p.mb-5 Una ética de gestión de inventarios que dé prioridad a las existencias de seguridad garantizará que siempre haya existencias adicionales reservadas en caso de que la empresa no pueda reponer esos artículos.
-              h4 Seis Sigma:
+              h4 Seis <em>Sigma:</em>
               p.mb-5 Se trata de un método basado en datos para eliminar los residuos de las empresas en lo que respecta al inventario.
-              h4 Lean Six Sigma:
-              p.mb-0 Este método combina la gestión ajustada y las prácticas de Six Sigma para eliminar los residuos y aumentar la eficiencia.
+              h4 <em>Lean Six Sigma:</em>
+              p.mb-0 Este método combina la gestión ajustada y las prácticas de <em>Six Sigma</em> para eliminar los residuos y aumentar la eficiencia.
 
     .row.mb-5(data-aos="fade-right")
       .col-10.col-lg-4.position-relative
@@ -98,8 +98,8 @@
             p.mb-5 los bienes de mantenimiento, reparación y operaciones (MRO) son inventarios - a menudo en forma de suministros - que apoyan la fabricación de un producto o el mantenimiento de una empresa.
             h4 Materiales de empaque y embalaje:
             p.mb-5 Hay tres tipos de materiales de embalaje. El embalaje primario protege el producto y lo hace utilizable. El embalaje secundario es el embalaje del producto terminado y puede incluir etiquetas o información de SKU. El embalaje terciario es el embalaje a granel para el transporte.
-            h4 Stock de seguridad y stock de anticipación:
-            p.mb-0 El stock de seguridad es el inventario extra que una empresa compra y almacena para cubrir eventos inesperados. El stock de seguridad tiene costes de transporte, pero contribuye a la satisfacción del cliente. Del mismo modo, las existencias de anticipación comprenden las materias primas o los artículos acabados que una empresa adquiere en función de las tendencias de las ventas y la producción. Si el precio de una materia prima está subiendo o se acerca la época de mayores ventas, una empresa puede comprar existencias de seguridad.
+            h4 <em>Stock</em> de seguridad y stock de anticipación:
+            p.mb-0 El <em>stock</em> de seguridad es el inventario extra que una empresa compra y almacena para cubrir eventos inesperados. El <em>stock</em> de seguridad tiene costes de transporte, pero contribuye a la satisfacción del cliente. Del mismo modo, las existencias de anticipación comprenden las materias primas o los artículos acabados que una empresa adquiere en función de las tendencias de las ventas y la producción. Si el precio de una materia prima está subiendo o se acerca la época de mayores ventas, una empresa puede comprar existencias de seguridad.
           div
             h4 Inventario de desacoplamiento:
             p.mb-5 El inventario de desacoplamiento es el término utilizado para los artículos extra o WIP que se mantienen en cada estación de la línea de producción para evitar las paradas de trabajo. Mientras que todas las empresas pueden tener existencias de seguridad, el inventario de desacoplamiento es útil si las partes de la línea trabajan a diferentes velocidades y sólo se aplica a las empresas que fabrican bienes.
@@ -109,7 +109,7 @@
             p.mb-0 El inventario de servicios es un concepto de contabilidad de gestión que se refiere a la cantidad de servicios que una empresa puede prestar en un período determinado. Un hotel con 10 habitaciones, por ejemplo, tiene un inventario de servicio de 70 estancias de una noche en una semana determinada.
           div
             h4 Inventario de tránsito:
-            p.mb-5 También conocido como inventario en tránsito, el inventario en tránsito es el stock que se mueve entre el fabricante, los almacenes y los centros de distribución. El inventario en tránsito puede tardar semanas en moverse entre las instalaciones.
+            p.mb-5 También conocido como inventario en tránsito, el inventario en tránsito es el <em>stock</em> que se mueve entre el fabricante, los almacenes y los centros de distribución. El inventario en tránsito puede tardar semanas en moverse entre las instalaciones.
             h4 Inventario teórico:
             p.mb-5 También llamado inventario contable, el inventario teórico es la menor cantidad de existencias que una empresa necesita para completar un proceso sin esperar. El inventario teórico se utiliza sobre todo en la producción y en la industria alimentaria. Se mide utilizando la fórmula real frente a la teórica.
             h4 Exceso de inventario:
@@ -123,7 +123,7 @@
 
     .row.justify-center
       .col-12.col-md-6.mb-3.mb-md-0.p-5.bg_grad-08
-        p.mb-0 Por ejemplo, al hacer un seguimiento de las materias primas, las existencias de seguridad, los productos acabados o incluso los materiales de embalaje, las empresas están recopilando datos cruciales que influyen en sus futuras operaciones de compra y cumplimiento. Entender las tendencias de compra y el ritmo de venta de los artículos determina la frecuencia con la que las empresas necesitan reponer el inventario y qué artículos son prioritarios para la recompra. Disponer de esta información puede mejorar las relaciones con los clientes, el flujo de caja y la rentabilidad, a la vez que se reduce la cantidad de dinero que se pierde por el desperdicio de inventario, las roturas de stock y los retrasos en las reposiciones.
+        p.mb-0 Por ejemplo, al hacer un seguimiento de las materias primas, las existencias de seguridad, los productos acabados o incluso los materiales de embalaje, las empresas están recopilando datos cruciales que influyen en sus futuras operaciones de compra y cumplimiento. Entender las tendencias de compra y el ritmo de venta de los artículos determina la frecuencia con la que las empresas necesitan reponer el inventario y qué artículos son prioritarios para la recompra. Disponer de esta información puede mejorar las relaciones con los clientes, el flujo de caja y la rentabilidad, a la vez que se reduce la cantidad de dinero que se pierde por el desperdicio de inventario, las roturas de <em>stock</em> y los retrasos en las reposiciones.
       .col-12.col-md-4.align-items-center
         figure
           img(src='@/assets/curso/tema4/t4-11.png', alt='Texto que describa la imagen')
@@ -136,8 +136,8 @@
     .row.mb-5
       .col-12.col-md-8.mb-3.mb-md-0.align-items-center
         div
-          p La preparación de pedidos para última milla se denomina picking, esta etapa en el proceso logística es de mucha importancia para todos los centros de distribución, en este proceso se pueden generar reproceso si no se  hace la preparación de los pedidos de forma ordenada y atenta, es la garantía de que la mercancía embalada sea el apropiado para continuar en el recorrido al destino final, es por ello que la etapa de organización y preparación de las mercancías demanda eficiencia para no ver afectada la operación y por consiguiente dar cumplimiento con las promesas de valor a los clientes y no menoscabar la productividad de la empresa. 
-          p.mb-0 <b>El picking es la actividad que realiza un equipo de operarios al momento de preparar los pedidos, consiste en la recogida y consolidación de cargas no unitarias que componen el pedido de un cliente.</b> El picking es una de las actividades más costosas en el almacenamiento, puesto que implica desplazamientos y recorridos del personal; representa entre el 45% y 75% del costo total de la operación. Por otro lado, la consolidación de mercancía es la combinación de un conjunto de envíos individuales e independientes en un mismo cargamento, para reducir costos generales de transporte. El picking  involucra cuatro (4) etapas; estas son:
+          p La preparación de pedidos para última milla se denomina <em>picking</em>, esta etapa en el proceso logística es de mucha importancia para todos los centros de distribución, en este proceso se pueden generar reproceso si no se  hace la preparación de los pedidos de forma ordenada y atenta, es la garantía de que la mercancía embalada sea el apropiado para continuar en el recorrido al destino final, es por ello que la etapa de organización y preparación de las mercancías demanda eficiencia para no ver afectada la operación y por consiguiente dar cumplimiento con las promesas de valor a los clientes y no menoscabar la productividad de la empresa. 
+          p.mb-0 <b>El <em>picking</em> es la actividad que realiza un equipo de operarios al momento de preparar los pedidos, consiste en la recogida y consolidación de cargas no unitarias que componen el pedido de un cliente.</b> El <em>picking</em> es una de las actividades más costosas en el almacenamiento, puesto que implica desplazamientos y recorridos del personal; representa entre el 45% y 75% del costo total de la operación. Por otro lado, la consolidación de mercancía es la combinación de un conjunto de envíos individuales e independientes en un mismo cargamento, para reducir costos generales de transporte. El <em>picking</em>  involucra cuatro (4) etapas; estas son:
       .col-12.col-md-4
         figure
           img(src='@/assets/curso/tema4/t4-12.svg', alt='Texto que describa la imagen')
@@ -308,7 +308,7 @@
             | Tipo de servicio.
           li
             i.fas.fa-paper-plane.colr_2
-            | Verificación del <em>stock.</em>
+            span Verificación del <em>stock.</em>
           li
             i.fas.fa-paper-plane.colr_2
             | Verificación y trazabilidad de la mercancía.
@@ -342,7 +342,7 @@
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-5.p-xl-5.my-5
               p.mb-5.text-bold Código Datamatrix
-              p.mb-0 <b>Código de barras bidimensionales</b> o código de respuesta rápida. Permiten almacenar información en una matriz de puntos. Reduce los errores en la lectura
+              p.mb-0 <b>Código de barras bidimensionales</b> o código de respuesta rápida. Permiten almacenar información en una matriz de puntos. Reduce los errores en la lectura.
             .tarjeta-slide__img.d-none.d-md-flex(:style="{'background-image': `url(${require('@/assets/curso/tema4/t4-26.png')})`}")
             .tarjeta-slide__img.d-flex.d-md-none(:style="{'background-image': `url(${require('@/assets/curso/tema4/t4-26-1.png')})`}")
       .col-12.col-md-3.col-sm-6.col-xl-3.mb-4.mb-xl-0
@@ -351,7 +351,7 @@
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-5.p-xl-5.my-5
               p.mb-5.text-bold Etiquetas electrónicas
-              p.mb-0 <b>Etiqueta RFID</b>, permite identificación automática usando ondas radiofrecuencias.  Recurso más sofisticado, basado en circuitos y micropocesadores
+              p.mb-0 <b>Etiqueta RFID</b>, permite identificación automática usando ondas radiofrecuencias.  Recurso más sofisticado, basado en circuitos y micropocesadores.
             .tarjeta-slide__img.d-none.d-md-flex(:style="{'background-image': `url(${require('@/assets/curso/tema4/t4-27.png')})`}")
             .tarjeta-slide__img.d-flex.d-md-none(:style="{'background-image': `url(${require('@/assets/curso/tema4/t4-27-1.png')})`}")
     
@@ -375,7 +375,7 @@
           .tarjeta.bgr_28
             .p-4
               p.text-bold Inventario permanente
-              p.mb-0 Es aquel conteo que se realiza de manera continua tanto de entradas como salidas; es desarrollado con aplicaciones informáticas (software), lo cual permite establecer diferencias por deterioros, daños, inconsistencias o pérdidas.
+              p.mb-0 Es aquel conteo que se realiza de manera continua tanto de entradas como salidas; es desarrollado con aplicaciones informáticas <em>(software)</em>, lo cual permite establecer diferencias por deterioros, daños, inconsistencias o pérdidas.
       .col-12.col-md-4
         .tarjeta-avatar.modif_16
           img.modif_15.img100(src='@/assets/curso/tema4/t4-30.svg' alt='AvatarTop')
