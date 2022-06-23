@@ -332,7 +332,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Melina Tatiana Quintero Rodriguez',
+        nombre: 'Melina Tatiana Quintero Rodríguez',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
