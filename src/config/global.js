@@ -185,7 +185,7 @@ export default {
         'La actividad que realiza un equipo de operarios al momento de preparar los pedidos, consiste en la recogida y consolidación de cargas no unitarias que componen el pedido de un cliente.',
     },
     {
-      termino: 'Picking',
+      termino: '<em>Picking</em>',
       significado: 'Acondicionamiento y empaque de pedidos.',
     },
   ],
@@ -332,7 +332,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Melina Tatiana Quintero Rodriguez',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
