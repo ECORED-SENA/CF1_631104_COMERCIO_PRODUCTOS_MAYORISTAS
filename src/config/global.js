@@ -77,7 +77,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '4.1',
-            titulo: 'Recibo y despacho inventarios',
+            titulo: 'Recibo y despacho de mercancía',
             hash: 't_4_1',
           },
           {
@@ -153,7 +153,7 @@ export default {
     {
       tema: 'Inventarios',
       referencia:
-        'Qué es un Inventario, Oracle netsuite. (2021). Oracle / NetSuite.',
+        '<em>What is Inventory?</em> (¿Qué es un Inventario?), Oracle netsuite. (2021). Oracle / NetSuite.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=qF4H7f9EvhY&t=21s',
     },

@@ -42,43 +42,43 @@
           .col-12
             img(src='@/assets/curso/tema1/t1-5.png' alt='AvatarTop')
         h4 1. Según volumen y dimensiones
-        p.mb-0 Muy voluminosa, Volumen excepcional, Voluminosas, Dimensiones especiales, Pequeñas,Paletizadas.
+        p.mb-0 Muy voluminosa, volumen excepcional, voluminosas, dimensiones especiales, pequeñas, paletizadas.
       .tarjeta.p-4
         .row.justify-content-center.mb-3
           .col-12
             img(src='@/assets/curso/tema1/t1-6.png' alt='AvatarTop')
         h4 2. Según el peso
-        p.mb-0 Ligera, Media, Pesada, Muy pesada.
+        p.mb-0 Ligera, media, pesada, muy pesada.
       .tarjeta.p-4
         .row.justify-content-center.mb-3
           .col-12
             img(src='@/assets/curso/tema1/t1-7.png' alt='AvatarTop')
         h4 3. Según su ubicación
-        p.mb-0 Sencillas, Apilables.
+        p.mb-0 Sencillas, apilables.
       .tarjeta.p-4
         .row.justify-content-center.mb-3
           .col-12
             img(src='@/assets/curso/tema1/t1-8.png' alt='AvatarTop')
         h4 4. Según su fragilidad
-        p.mb-0 Ligeras, Resistentes, Frágiles.
+        p.mb-0 Ligeras, resistentes, frágiles.
       .tarjeta.p-4
         .row.justify-content-center.mb-3
           .col-12
             img(src='@/assets/curso/tema1/t1-9.png' alt='AvatarTop')
         h4 5. Según sus propiedades
-        p.mb-0 Duradero, Perecedero.
+        p.mb-0 Duradero, perecedero.
       .tarjeta.p-4
         .row.justify-content-center.mb-3
           .col-12
             img(src='@/assets/curso/tema1/t1-10.png' alt='AvatarTop')
-        h4 6. Según su estado fisico
-        p.mb-0 Líquido, Sólido, Gaseoso.
+        h4 6. Según su estado físico
+        p.mb-0 Líquido, sólido, gaseoso.
       .tarjeta.p-4
         .row.justify-content-center.mb-3
           .col-12
             img(src='@/assets/curso/tema1/t1-11.png' alt='AvatarTop')
         h4 7. Según su rotación
-        p.mb-0 Baja, Media, Alta.
+        p.mb-0 Baja, media, alta.
 
     .row.mb-3(data-aos="fade-right")
       .col-10.col-lg-4.position-relative
@@ -93,8 +93,7 @@
           figure.mb-3.justify-center 
             img.img90(src='@/assets/curso/tema1/t1-12.svg' alt='AvatarTop')
           p.text-bold Mercancías no perecederas
-          p.mb-0 Mercancías que a mediano y corto plazo, no se deterioran
-          p.mb-0 Baja, Media, Alta.
+          p.mb-0 Mercancías que a mediano y corto plazo, no se deterioran.
       .col-12.col-md-3.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-down")
         .bgr_3.p-4.h-100
           figure.mb-3.justify-center 

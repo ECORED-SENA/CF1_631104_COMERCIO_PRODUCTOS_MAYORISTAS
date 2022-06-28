@@ -1135,22 +1135,6 @@
   </colorschemes>
   <string_tables>
     <string_table name="npnxnanbnsnfns00000000001">
-      <string id="acc_modern_video_captions">~ѵide~ø ca~þţio~ñš</string>
-      <string id="acc_modern_video_pause">~þaüš~e ѵi~deø</string>
-      <string id="acc_modern_video_pip">~Picţ~üře-~iñ-P~ictu~re</string>
-      <string id="acc_modern_video_play">~þlaý~ ѵid~eø</string>
-      <string id="modern_video_playback_settings">~þlaý~bacķ~ šeţ~tiñg~s</string>
-      <string id="acc_modern_video_playback_speed">~Plaý~bacķ~ šþe~ed</string>
-      <string id="acc_modern_video_volume">~ѵide~ø vo~lüӎe</string>
-      <string id="acc_modern_video_mute">~ӎüţe~ ѵid~eø</string>
-      <string id="acc_modern_video_fullscreen">~füll~šcře~eñ</string>
-      <string id="modern_video_captions_label">~caþţ~iøñš</string>
-      <string id="modern_video_captions_off">~øff</string>
-      <string id="modern_video_captions_on">~øñ</string>
-      <string id="modern_video_normal_speed">~Nøřӎ~al</string>
-      <string id="modern_video_settings_close">~cløš~e ѵi~deo ~seţt~iñgs</string>
-      <string id="modern_video_playback_speed_title">~Plaý~bacķ~ šþe~ed</string>
-      <string id="acc_modern_video_settings">~ѵide~ø še~ţtiñ~gs</string>
       <string id="more_info">Más información</string>
       <string id="bio">Biografía</string>
       <string id="enable_keyboardshortcuts">Activar atajos del teclado</string>
@@ -1190,6 +1174,22 @@
       <string id="keyboardshortcuts_lower">Atajos de teclado</string>
       <string id="zoom_to_fit">Habilitar zoom del navegador</string>
       <string id="accessible_text">Texto accesible</string>
+      <string id="modern_video_captions_on">~øñ</string>
+      <string id="modern_video_captions_off">~øff</string>
+      <string id="modern_video_settings_close">~cløš~e ѵi~deo ~seţt~iñgs</string>
+      <string id="modern_video_playback_settings">~þlaý~bacķ~ šeţ~tiñg~s</string>
+      <string id="acc_modern_video_volume">~ѵide~ø vo~lüӎe</string>
+      <string id="acc_modern_video_fullscreen">~füll~šcře~eñ</string>
+      <string id="modern_video_normal_speed">~Nøřӎ~al</string>
+      <string id="acc_modern_video_playback_speed">~Plaý~bacķ~ šþe~ed</string>
+      <string id="modern_video_playback_speed_title">~Plaý~bacķ~ šþe~ed</string>
+      <string id="modern_video_captions_label">~caþţ~iøñš</string>
+      <string id="acc_modern_video_settings">~ѵide~ø še~ţtiñ~gs</string>
+      <string id="acc_modern_video_captions">~ѵide~ø ca~þţio~ñš</string>
+      <string id="acc_modern_video_pip">~Picţ~üře-~iñ-P~ictu~re</string>
+      <string id="acc_modern_video_pause">~þaüš~e ѵi~deø</string>
+      <string id="acc_modern_video_play">~þlaý~ ѵid~eø</string>
+      <string id="acc_modern_video_mute">~ӎüţe~ ѵid~eø</string>
       <string id="acc_definition">definición</string>
       <string id="definition">Definición</string>
       <string id="search_results">Resultados de la búsqueda</string>

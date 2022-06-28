@@ -329,13 +329,13 @@
           div
             span.bgr_12.text-bold 5. 
             | <b>Alistamiento de pedidos de manera eficiente</b>
-            p.my-5 El <em>picking</em> es una de las operaciones que necesita más tiempo y recursos. Contar con todos los artículos controlados e ubicados aporta velocidad, puesto que el WMS sabe la localización precisa de cada SKU y da las directivas exactas a los operarios referente a cómo localizarlas.    
+            p.my-5 El <em>picking</em> es una de las operaciones que necesita más tiempo y recursos. Contar con todos los artículos controlados y ubicados aporta velocidad, puesto que el WMS sabe la localización precisa de cada SKU y da las directivas exactas a los operarios referente a cómo localizarlas.    
             figure
               img(src='@/assets/curso/tema2/t2-26.png', alt='Texto que describa la imagen')
           div
-            span.bgr_13 6. 
+            span.bgr_13.text-bold 6. 
             | <b>Sin errores</b>
-            p.my-5 Disponer de la codificación reconocida previene extravíos e equivocaciones en cualquier operativa, lo cual redunda en un mejor servicio logístico, una más grande satisfacción del comprador y un ahorro de precios en los costos.     
+            p.my-5 Disponer de la codificación reconocida previene extravíos y equivocaciones en cualquier operativa, lo cual redunda en un mejor servicio logístico, una más grande satisfacción del comprador y un ahorro de precios en los costos.     
             figure
               img(src='@/assets/curso/tema2/t2-27.png', alt='Texto que describa la imagen')
 
@@ -483,7 +483,7 @@
                 td.bgr_14.text-center.modif_14
                   p.mb-0.text-bold Transpaletas
                 td.bgr_15.text-bold.text-center Equipo mecánico de transporte
-                td.bgr_16.text-small.ps-4 - Sirven de apoya a otros equipos.
+                td.bgr_16.text-small.ps-4 - Sirven de apoyo a otros equipos.
                   br
                   |- Transportan la carga a distancias cortas.
                   br
@@ -522,7 +522,7 @@
               tr
                 td.bgr_14.text-bold.modif_14  
                   p.mb-0.text-bold.text-center AGV
-                td.bgr_15.text-bold.text-center <em>Automatic Guied Vehicles</em>
+                td.bgr_15.text-bold.text-center <em>Automatic Guided Vehicles</em>
                 td.bgr_16.text-small.ps-4 - No requieren conductor (inteligentes).
                   br
                   |- Ordenador que comunica con PC.
@@ -566,7 +566,7 @@
         .tarjeta.bgr_18
           .p-4
             h2.text-center Extracción
-            p.mb-0.text-center Posterior la localización del producto en la bodega, se retira la cantidad relacionada en el pedido y es llevada al sistema de transporte de productos interno (<em>roll</em>, <em>palet</em>, entre otros).
+            p.mb-0.text-center Posterior a la localización del producto en la bodega, se retira la cantidad relacionada en el pedido y es llevada al sistema de transporte de productos interno (<em>roll</em>, <em>palet</em>, entre otros).
       .tarjeta-avatar.modif_16
         img.modif_15.img100(src='@/assets/curso/tema2/t2-46.svg' alt='AvatarTop')
         .tarjeta.bgr_18

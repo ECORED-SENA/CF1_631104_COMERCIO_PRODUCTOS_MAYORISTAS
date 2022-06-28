@@ -11,7 +11,7 @@
 
     p La gestión de inventarios se refiere al proceso de pedir, almacenar, utilizar y vender el inventario de una empresa. Incluye la gestión de las materias primas, los componentes y los productos acabados, así como el almacenamiento y el procesamiento de dichos artículos.
     p El control de inventario permite a las empresas comprar la cantidad correcta de existencias en el momento adecuado, reduce los costes de almacenamiento y evita la falta de existencias. El cumplimiento de los pedidos es fundamental para todas las operaciones comerciales.
-    p.mb-5.text-bold En el siguiente video se detalla como es el proceso de control de inventarios en una empresa.
+    p.mb-5.text-bold En el siguiente video se detalla cómo es el proceso de control de inventarios en una empresa.
 
      figure.mb-5(data-aos="zoom-in-up")
       .video

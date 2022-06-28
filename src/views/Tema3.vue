@@ -28,16 +28,16 @@
           LineaTiempoE.color-acento-botones.mb-3.modif_25
             .row(titulo="GESTIÓN DE LAS EXISTENCIAS")
               .col-lg-12.mb-0
-                p.mb-0 <b>LIFO:</b> último que entra es el primero que sale.  Habitualmente para productos que no tienen caducidad.
+                p.mb-0 <b>LIFO</b> <em>(Last In First Out)</em>: último que entra es el primero que sale.  Habitualmente para productos que no tienen caducidad.
             .row
               .col-lg-12.mb-0
-                p.mb-0 <b>FIFO:</b> primero que entra es el primero que sale. La mercancía con mayor  es la que primero debe salir.
+                p.mb-0 <b>FIFO</b> <em>(First In First Out)</em>: primero que entra es el primero que sale. La mercancía con mayor  es la que primero debe salir.
             .row
               .col-lg-12.mb-4.mb-lg-0
                 p <b>FEFO:</b> el primero que caduca es el primero que sale. La mercancía se ubica de acuerdo a la fecha de vencimiento, para que salga primero.
             .row(titulo="METODOLOGÍAS DE CONTEO DE LA MERCANCÍA")
               .col-lg-12.mb-0
-                p.mb-0 <b>PERIÓDICO:</b> el contero se realiza al final del periodo.
+                p.mb-0 <b>PERIÓDICO:</b> el conteo se realiza al final del periodo.
             .row
               .col-lg-12.mb-0
                 p.mb-0 <b>PERMANENTE:</b> se realiza continuamente la verificación de las existencias. El inventario permanece actualizado.
@@ -63,7 +63,7 @@
         figure.mb-5.justify-center
           img.img140(src='@/assets/curso/tema3/t3-3.svg', alt='Texto que describa la imagen')
         h3.mb-5.text-center Dispositivos de lectura y transmisión de datos
-        p.text-center.mb-0 los terminales de radiofrecuencia y otros sistemas, como el <em>picking</em> por voz y el <em>pick-to-light</em>, sirven de enlace entre el sistema informático y el mundo físico.
+        p.text-center.mb-0 Los terminales de radiofrecuencia y otros sistemas, como el <em>picking</em> por voz y el <em>pick-to-light</em>, sirven de enlace entre el sistema informático y el mundo físico.
       .col-12.col-md-5.bgr_21.p-5
         figure.mb-5.justify-center
           img.img140(src='@/assets/curso/tema3/t3-2.svg', alt='Texto que describa la imagen')
@@ -82,7 +82,7 @@
           img(src='@/assets/curso/tema3/t3-4.png', alt='Texto que describa la imagen')
       .col-12.col-md-7.align-items-center
         div
-          p La calidad y la eficiencia de la logística están totalmente vinculadas al <em>stock</em> de una empresa, ya que este sector representa más del 30% de los costos totales de una operación. Ajustar las cantidades que se almacenan entre los procesos de distribución es fundamental también para reducir los costes excesivos y no sólo facilitar los procedimientos en la cadena de entrega.
+          p La calidad y la eficiencia de la logística están totalmente vinculadas al <em>stock</em> de una empresa, ya que este sector representa más del 30 % de los costos totales de una operación. Ajustar las cantidades que se almacenan entre los procesos de distribución es fundamental también para reducir los costes excesivos y no solo facilitar los procedimientos en la cadena de entrega.
           .cajon.bgr_24.px-5.py-3
             .row  
               .col-12.col-md-3

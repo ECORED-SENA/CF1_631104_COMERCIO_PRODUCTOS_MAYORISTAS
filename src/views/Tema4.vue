@@ -48,10 +48,10 @@
               h4 Previsión de la demanda:
               p.mb-5 Esta forma de análisis predictivo ayuda a predecir la demanda de los clientes.
               h4 Envío directo:
-              p.mb-5 En esta práctica, el proveedor envía los artículos directamente              h4 desde su almacén al cliente.
+              p.mb-5 En esta práctica, el proveedor envía los artículos directamente desde su almacén al cliente.
               h4 Cantidad económica de pedido (EOQ):
               p.mb-5 Esta fórmula muestra exactamente la cantidad de inventario que una empresa debe pedir para reducir los costes de mantenimiento y otros.
-              h4 FIFO y LIFO:
+              h4 FIFO <em>(Last In First Out)</em> y LIFO <em>(First In First Out)</em>:
               p.mb-0 Primero en entrar, primero en salir (FIFO) significa que se mueven primero las existencias más antiguas. El último en entrar, primero en salir (LIFO) considera que los precios siempre suben, por lo que el inventario comprado más recientemente es el más caro y, por tanto, se vende primero.
           .row.p-3.p-md-5.p-lg-5
             .col-12
@@ -136,8 +136,8 @@
     .row.mb-5
       .col-12.col-md-8.mb-3.mb-md-0.align-items-center
         div
-          p La preparación de pedidos para última milla se denomina <em>picking</em>, esta etapa en el proceso logística es de mucha importancia para todos los centros de distribución, en este proceso se pueden generar reproceso si no se  hace la preparación de los pedidos de forma ordenada y atenta, es la garantía de que la mercancía embalada sea el apropiado para continuar en el recorrido al destino final, es por ello que la etapa de organización y preparación de las mercancías demanda eficiencia para no ver afectada la operación y por consiguiente dar cumplimiento con las promesas de valor a los clientes y no menoscabar la productividad de la empresa. 
-          p.mb-0 <b>El <em>picking</em> es la actividad que realiza un equipo de operarios al momento de preparar los pedidos, consiste en la recogida y consolidación de cargas no unitarias que componen el pedido de un cliente.</b> El <em>picking</em> es una de las actividades más costosas en el almacenamiento, puesto que implica desplazamientos y recorridos del personal; representa entre el 45% y 75% del costo total de la operación. Por otro lado, la consolidación de mercancía es la combinación de un conjunto de envíos individuales e independientes en un mismo cargamento, para reducir costos generales de transporte. El <em>picking</em>  involucra cuatro (4) etapas; estas son:
+          p La preparación de pedidos para última milla se denomina <em>picking</em>, esta etapa en el proceso logística es de mucha importancia para todos los centros de distribución, en este proceso se pueden generar reproceso si no se  hace la preparación de los pedidos de forma ordenada y atenta, es la garantía de que la mercancía embalada sea la apropiada para continuar en el recorrido al destino final, es por ello que la etapa de organización y preparación de las mercancías demanda eficiencia para no ver afectada la operación y por consiguiente dar cumplimiento con las promesas de valor a los clientes y no menoscabar la productividad de la empresa. 
+          p.mb-0 <b>El <em>picking</em> es la actividad que realiza un equipo de operarios al momento de preparar los pedidos, consiste en la recogida y consolidación de cargas no unitarias que componen el pedido de un cliente.</b> El <em>picking</em> es una de las actividades más costosas en el almacenamiento, puesto que implica desplazamientos y recorridos del personal; representa entre el 45 % y 75 % del costo total de la operación. Por otro lado, la consolidación de mercancía es la combinación de un conjunto de envíos individuales e independientes en un mismo cargamento, para reducir costos generales de transporte. El <em>picking</em>  involucra cuatro (4) etapas; estas son:
       .col-12.col-md-4
         figure
           img(src='@/assets/curso/tema4/t4-12.svg', alt='Texto que describa la imagen')
@@ -160,7 +160,7 @@
             br
             | <b>b.</b> Desde el punto de ubicación al siguiente y así sucesivamente.
             br
-            | <b>c.</b> Regreso a la zona de operaciones., se utiliza el concepto de secuenciación para garantizar el tiempo óptimo para este proceso. 
+            | <b>c.</b> Regreso a la zona de operaciones, se utiliza el concepto de secuenciación para garantizar el tiempo óptimo para este proceso. 
       .tarjeta-avatar.modif_16
         img.modif_15.img100(src='@/assets/curso/tema4/t4-15.svg' alt='AvatarTop')
         .tarjeta.bgr_26
@@ -333,7 +333,7 @@
               p.mb-5.text-bold Código de Barras
               p.mb-0.text-bold Sistema Internacional GS1.
               p.mb-0 Codificación de unidades envasadas
-              p.mb-0 Representación de caracteres numericos o alfabeticos en forma de código.
+              p.mb-0 Representación de caracteres numéricos o alfabéticos en forma de código.
             .tarjeta-slide__img.d-none.d-md-flex(:style="{'background-image': `url(${require('@/assets/curso/tema4/t4-25.png')})`}")
             .tarjeta-slide__img.d-flex.d-md-none(:style="{'background-image': `url(${require('@/assets/curso/tema4/t4-25-1.png')})`}")
       .col-12.col-md-3.col-sm-6.col-xl-3.mb-4.mb-xl-0
@@ -390,7 +390,7 @@
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
-            p <b>Video.</b> Control de inventarios en el almacén
+            p <b>Video.</b> Control de inventarios.
 
 
 </template>
