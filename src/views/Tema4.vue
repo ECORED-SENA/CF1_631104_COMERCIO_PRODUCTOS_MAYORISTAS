@@ -51,7 +51,7 @@
               p.mb-5 En esta práctica, el proveedor envía los artículos directamente desde su almacén al cliente.
               h4 Cantidad económica de pedido (EOQ):
               p.mb-5 Esta fórmula muestra exactamente la cantidad de inventario que una empresa debe pedir para reducir los costes de mantenimiento y otros.
-              h4 FIFO <em>(Last In First Out)</em> y LIFO <em>(First In First Out)</em>:
+              h4 FIFO <em>(First In First Out)</em> y LIFO <em>(Last In First Out)</em>:
               p.mb-0 Primero en entrar, primero en salir (FIFO) significa que se mueven primero las existencias más antiguas. El último en entrar, primero en salir (LIFO) considera que los precios siempre suben, por lo que el inventario comprado más recientemente es el más caro y, por tanto, se vende primero.
           .row.p-3.p-md-5.p-lg-5
             .col-12

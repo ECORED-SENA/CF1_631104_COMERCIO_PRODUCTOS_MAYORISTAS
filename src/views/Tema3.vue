@@ -25,7 +25,7 @@
       
       .row.mb-5.justify-center
         .col-12.col-md-9.col-lg-9
-          LineaTiempoE.color-acento-botones.mb-3.modif_25
+          LineaTiempoE.color-acento-contenido.mb-3.modif_25
             .row(titulo="GESTIÓN DE LAS EXISTENCIAS")
               .col-lg-12.mb-0
                 p.mb-0 <b>LIFO</b> <em>(Last In First Out)</em>: último que entra es el primero que sale.  Habitualmente para productos que no tienen caducidad.
@@ -34,7 +34,7 @@
                 p.mb-0 <b>FIFO</b> <em>(First In First Out)</em>: primero que entra es el primero que sale. La mercancía con mayor  es la que primero debe salir.
             .row
               .col-lg-12.mb-4.mb-lg-0
-                p <b>FEFO:</b> el primero que caduca es el primero que sale. La mercancía se ubica de acuerdo a la fecha de vencimiento, para que salga primero.
+                p <b>FEFO</b> <em>(Firs expires first out)</em> el primero que caduca es el primero que sale. La mercancía se ubica de acuerdo a la fecha de vencimiento, para que salga primero.
             .row(titulo="METODOLOGÍAS DE CONTEO DE LA MERCANCÍA")
               .col-lg-12.mb-0
                 p.mb-0 <b>PERIÓDICO:</b> el conteo se realiza al final del periodo.
