@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="217" viewBox="0 0 1600 217">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_279495" data-name="Rectángulo 279495" width="1600" height="217" fill="#00e7bf"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.422" y1="0.5" x2="1.209" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00e7bf"/>
+      <stop offset="1" stop-color="#00a299"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <rect id="Rectángulo_280572" data-name="Rectángulo 280572" width="735.831" height="367.966" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectángulo_280573" data-name="Rectángulo 280573" width="658.394" height="490.186" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path id="Trazado_582586" data-name="Trazado 582586" d="M394.323,161.011c0,181.8,147.373,329.175,329.17,329.175,181.846,0,329.223-147.378,329.223-329.175A327.3,327.3,0,0,0,1010.711,0H436.328a327.816,327.816,0,0,0-42.005,161.011" transform="translate(-394.323)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_845117" data-name="Grupo 845117" transform="translate(-192 -78)">
+    <g id="Enmascarar_grupo_700214" data-name="Enmascarar grupo 700214" transform="translate(192 78)" clip-path="url(#clip-path)">
+      <g id="Grupo_845106" data-name="Grupo 845106" transform="translate(0.043 -0.002)">
+        <g id="Grupo_845105" data-name="Grupo 845105" transform="translate(0 0)">
+          <path id="Trazado_582583" data-name="Trazado 582583" d="M0,0H1600.263V607.939H0Z" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <g id="Grupo_845109" data-name="Grupo 845109" transform="translate(508.369 -157.477)" opacity="0.2">
+        <g id="Grupo_845108" data-name="Grupo 845108" transform="translate(0 157.477)">
+          <g id="Grupo_845107" data-name="Grupo 845107" clip-path="url(#clip-path-2)">
+            <path id="Trazado_582584" data-name="Trazado 582584" d="M234.422,0c0,203.2,164.7,367.966,367.918,367.966S970.253,203.2,970.253,0H852.784c0,138.3-112.142,250.442-250.445,250.442C463.986,250.442,351.893,138.3,351.893,0Z" transform="translate(-234.422)" fill="#00a299"/>
+          </g>
+        </g>
+        <circle id="Elipse_7349" data-name="Elipse 7349" cx="313.5" cy="313.5" r="313.5" transform="translate(332.631 0.477)" fill="#fff" opacity="0.749"/>
+      </g>
+      <path id="Trazado_582588" data-name="Trazado 582588" d="M0,0V125c51.943,19.4,113.2,7.922,154.147-33.943A143.778,143.778,0,0,0,194.905,0Z" transform="translate(-2.776 0)" fill="#fff" opacity="0.359"/>
+      <rect id="Rectángulo_280574" data-name="Rectángulo 280574" width="1659.213" height="607.937" transform="translate(-31.015 0)" fill="none"/>
+    </g>
+    <g id="Grupo_845116" data-name="Grupo 845116" transform="translate(637.465 122.726)">
+      <path id="Trazado_582519" data-name="Trazado 582519" d="M239.808,0a3.944,3.944,0,1,0,3.947,3.94A3.941,3.941,0,0,0,239.808,0" transform="translate(-40.935)" fill="#fff"/>
+      <path id="Trazado_582520" data-name="Trazado 582520" d="M222.543,0a3.944,3.944,0,1,0,3.947,3.94A3.941,3.941,0,0,0,222.543,0" transform="translate(-62.654)" fill="#fff"/>
+      <path id="Trazado_582521" data-name="Trazado 582521" d="M205.275,0a3.944,3.944,0,1,0,3.947,3.94A3.943,3.943,0,0,0,205.275,0" transform="translate(-84.376)" fill="#fff"/>
+      <path id="Trazado_582522" data-name="Trazado 582522" d="M188.006,0a3.944,3.944,0,1,0,3.947,3.94A3.94,3.94,0,0,0,188.006,0" transform="translate(-106.094)" fill="#fff"/>
+      <path id="Trazado_582523" data-name="Trazado 582523" d="M170.748,0a3.944,3.944,0,1,0,3.94,3.94A3.941,3.941,0,0,0,170.748,0" transform="translate(-127.814)" fill="#fff"/>
+      <path id="Trazado_582524" data-name="Trazado 582524" d="M153.482,0a3.944,3.944,0,1,0,3.947,3.94A3.941,3.941,0,0,0,153.482,0" transform="translate(-149.535)" fill="#fff"/>
+      <path id="Trazado_582525" data-name="Trazado 582525" d="M231.176,8.478a3.947,3.947,0,1,0,3.945,3.947,3.941,3.941,0,0,0-3.945-3.947" transform="translate(-51.794 10.666)" fill="#fff"/>
+      <path id="Trazado_582526" data-name="Trazado 582526" d="M213.91,8.478a3.947,3.947,0,1,0,3.945,3.947,3.942,3.942,0,0,0-3.945-3.947" transform="translate(-73.515 10.666)" fill="#fff"/>
+      <path id="Trazado_582527" data-name="Trazado 582527" d="M196.639,8.478a3.947,3.947,0,1,0,3.947,3.947,3.941,3.941,0,0,0-3.947-3.947" transform="translate(-95.233 10.666)" fill="#fff"/>
+      <path id="Trazado_582528" data-name="Trazado 582528" d="M179.381,8.478a3.947,3.947,0,1,0,3.938,3.947,3.941,3.941,0,0,0-3.938-3.947" transform="translate(-116.953 10.666)" fill="#fff"/>
+      <path id="Trazado_582529" data-name="Trazado 582529" d="M162.115,8.478a3.947,3.947,0,1,0,3.94,3.947,3.942,3.942,0,0,0-3.94-3.947" transform="translate(-138.674 10.666)" fill="#fff"/>
+      <path id="Trazado_582530" data-name="Trazado 582530" d="M239.808,18.415a3.944,3.944,0,1,0,3.947,3.947,3.942,3.942,0,0,0-3.947-3.947" transform="translate(-40.935 23.167)" fill="#fff"/>
+      <path id="Trazado_582531" data-name="Trazado 582531" d="M222.543,18.415a3.944,3.944,0,1,0,3.947,3.947,3.942,3.942,0,0,0-3.947-3.947" transform="translate(-62.654 23.167)" fill="#fff"/>
+      <path id="Trazado_582532" data-name="Trazado 582532" d="M205.275,18.415a3.944,3.944,0,1,0,3.947,3.947,3.945,3.945,0,0,0-3.947-3.947" transform="translate(-84.376 23.167)" fill="#fff"/>
+      <path id="Trazado_582533" data-name="Trazado 582533" d="M188.006,18.415a3.944,3.944,0,1,0,3.947,3.947,3.941,3.941,0,0,0-3.947-3.947" transform="translate(-106.094 23.167)" fill="#fff"/>
+      <path id="Trazado_582534" data-name="Trazado 582534" d="M170.748,18.415a3.944,3.944,0,1,0,3.94,3.947,3.942,3.942,0,0,0-3.94-3.947" transform="translate(-127.814 23.167)" fill="#fff"/>
+      <path id="Trazado_582535" data-name="Trazado 582535" d="M153.482,18.415a3.944,3.944,0,1,0,3.947,3.947,3.942,3.942,0,0,0-3.947-3.947" transform="translate(-149.535 23.167)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
