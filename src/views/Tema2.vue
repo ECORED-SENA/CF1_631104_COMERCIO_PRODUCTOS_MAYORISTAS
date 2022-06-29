@@ -716,7 +716,7 @@
             img(src='@/assets/curso/tema2/t2-55.png', alt='Texto que describa la imagen')
       .row(titulo="<em>Pick to visual</em>").p-4
         .col-md-6.mb-4.mb-md-0.align-items-center
-          p.mb-0 Dispositivo con gafas de datos que está diseñado para ayudar al recolector a encontrar rápidamente su ubicación en el almacén (ubicación de la ubicación) y guiarlo a través del proceso de <em>picking</em> sin errores.
+          p.mb-0 Dispositivo con gafas de datos que está diseñado para ayudar al recolector a encontrar rápidamente su ubicación en el almacén y guiarlo a través del proceso de <em>picking</em> sin errores.
         .col-md-6
           figure
             img(src='@/assets/curso/tema2/t2-56.png', alt='Texto que describa la imagen')
